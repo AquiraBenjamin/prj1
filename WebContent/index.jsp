@@ -12,7 +12,11 @@
 <h3>index.jsp</h3>
 <a href="customer/notice.do">게시판</a>
 <h3>benjamin</h3>
+<<<<<<< HEAD
 <h2>benjamin2</h2>
 <h1>benjamin3</h1>
+=======
+
+>>>>>>> branch1
 </body>
 </html>

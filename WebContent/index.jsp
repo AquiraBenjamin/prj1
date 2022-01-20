@@ -13,5 +13,6 @@
 <a href="customer/notice.do">게시판</a>
 <h3>benjamin</h3>
 <h2>benjamin2</h2>
+<h1>benjamin3</h1>
 </body>
 </html>
